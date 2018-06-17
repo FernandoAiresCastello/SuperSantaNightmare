@@ -1,0 +1,30 @@
+Boys:
+	Jimmy
+	Bobby
+	Jeremy
+	Vinny
+	Willy
+	Brody
+	Bentley
+	Olly
+	Rudy
+	Googy
+	
+Girls:
+	Heidi (Princess)
+	Lilly
+	Holly
+	Polly
+	Sally
+	Krissy
+	Nelly
+	Stacey
+	
+Monsters:
+	Skelly
+	Gelly
+	Pazuzu
+	Smily
+
+Others:
+	The Old Hermit

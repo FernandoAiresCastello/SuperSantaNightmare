@@ -1,0 +1,13 @@
+Things to do:
+
+- Player rotation along with scene
+	Player sprite has sprite billboard script which makes it always face the camera, and as a consequence the rotation is locked in all axes (it never rotates around any axis). This is wrong behavior. It should not rotate in the Y-axis, but it must rotate in the X-axis.
+
+- Player hopping when moving down
+	Supposedly has to do with the fact that the rotation of the player is being locked, since this does not occur when the billboard script is deactivated.
+	
+- Voxel alignment
+	Currently voxels are being manually aligned to each other. Find some tool or script to allow for automatic snapping of voxels into a 3d grid.
+
+- Animated voxel textures
+	Implement animation of voxel textures (e.g. water)
